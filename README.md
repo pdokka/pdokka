@@ -9,3 +9,5 @@ I'm Pradeepti, a data-driven professional with a knack for transforming insights
 🔍 My expertise extends to a wide array of technical tools and methodologies essential for business analysis, including proficiency in JMP, Python, R, SQL, and data visualization tools such as Tableau and Power BI. I'm also experienced in SAS for time series and forecasting, and adept at using agile tools like JIRA and Confluence to drive project success.
 
 📚 Outside of work and academia, I'm a dedicated Student Library Assistant at the Archives and Special Collections of the University of Connecticut.
+
+Wanna learn more about me, click here - https://pradeeptid.my.canva.site/

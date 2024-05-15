@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pradeepti, a data-driven professional with a knack for transforming insights into action. Currently pursuing my Master of Science in Business Analytics and Project Management with a Data Science Concentration at the University of Connecticut's School of Business in Hartford, CT (Class of 2024).
+I'm Pradeepti, a data-driven professional with a knack for transforming insights into action. I graduated with a Master of Science in Business Analytics and Project Management with a Data Science Concentration at the University of Connecticut's School of Business in Hartford, CT (Class of 2024).
 
 🎓 Previously, I earned my Bachelor of Technology in Computer Science Engineering in Hyderabad, India (Class of 2021).
 
